@@ -1,6 +1,11 @@
+// import LoginImg from "../assets/netflix-backgrounf.jpg";
 const LoginPages = () => {
 	return (
-		<h1>Login Pages</h1>
+		<>
+			<p>Login pages</p>
+			{/* <img src={LoginImg}></img> */}
+		</>
+
 	)
 };
 
